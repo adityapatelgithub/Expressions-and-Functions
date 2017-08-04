@@ -1,5 +1,5 @@
 # Expressions-and-Functions
-The purpose of this academic project was to simulate (using Python) how languages (like C++, Java, Python etc) computes arithmetic expressions and functions (ex: var= z + 3 * factorial (7)).
+The purpose of this academic project was to simulate (using Python) how various computer languages computes arithmetic expressions and functions (ex: var= z + 3 * factorial (7)).
 
 If you are interested to see what this project does, clone this repository. Then run evaluate.py. In the IDLE, you can use the following commands:
 1) evaluate an expression by: evaluate("1+2 -3*4/   2")
